@@ -65,3 +65,5 @@ function bekle() {
     }
     acilanresimsay = 0;
 }
+
+//test deneme
